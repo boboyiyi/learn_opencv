@@ -1,0 +1,3 @@
+[submodule "src/cvui/cvui"]
+	path = src/cvui/cvui
+	url = https://github.com/Dovyski/cvui.git
