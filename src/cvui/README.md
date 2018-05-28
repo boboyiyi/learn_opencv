@@ -1,3 +1,3 @@
 - canny
 
-![Canny](https://github.com/boboyiyi/learnopencv/tree/master/src/cvui/demo/canny.gif)
+![Canny](https://github.com/boboyiyi/learnopencv/blob/master/src/cvui/demo/canny.gif)
