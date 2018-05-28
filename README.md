@@ -1,7 +1,9 @@
 # learnopencv
 My personal exercise projects based on OpenCV
 
-==You'll find detailed README in src/[exp] where [exp] is the corresponding experiment.==
+```
+You'll find detailed README in src/[exp] where [exp] is the corresponding experiment.
+```
 
 ## CVUI
 
