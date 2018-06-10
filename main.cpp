@@ -1,5 +1,6 @@
 #include "./src/image_cartoonization/cartoonization.h"
 #include "./src/cvui/cvui.h"
+#include "./src/create_mask/create_mask.h"
 int main(int argc, char **argv) {
     // _cvui::hello_world();
     // _cvui::button_shortcut();
@@ -18,6 +19,7 @@ int main(int argc, char **argv) {
     // _cvui::nested_rows_columns();
     // _cvui::on_image();
     // _cvui::sparkline();
-    _cartoonization::cartoonization();
+    // _cartoonization::cartoonization();
+    _create_mask::create_mask();
     return 0;
 }
